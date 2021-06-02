@@ -1,0 +1,39 @@
+body,html{
+	width: 100%;
+	height: 100%;
+}
+
+main{
+	background-color: #f8f8f8;
+	font-family: Arial;
+}
+.search-more{
+	padding-left: 3px;
+	padding-right: 3px;
+	border: solid 2px #e2e8f0;
+	border-radius: 5px;
+	color: #666;
+	text-decoration: none;
+
+}
+.search-more:hover{
+	color: #006350 !important;
+	border-color: #006350;
+}
+.menu-text{
+	color: #00a888;
+}
+.hover:hover{
+	color: #00a888 !important;
+}
+.actived{
+	background-color: #00a888 !important;
+	color: white !important;
+}
+.item{
+	/*height: 5vh;*/
+}
+#documentUp{
+	font-size: 12px;
+	color: #666;
+}
